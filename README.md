@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MercadoPago SDK module for Payments integration
 
 * [Install](#install)
@@ -279,3 +280,7 @@ $mp->delete (
     )
 );
 ```
+=======
+# MercadoPago_PhpSample
+Ejemplo de implementacion de Mercado Pago con PHP
+>>>>>>> 30fbfa61ea609aa3acff69eb8a96962e9df579ed
